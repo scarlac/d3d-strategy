@@ -1,0 +1,13 @@
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\D3DStrategy.Form1.resources
+obj\Debug\D3DStrategy.Properties.Resources.resources
+obj\Debug\D3DStrategy.csproj.GenerateResource.Cache
+bin\Debug\D3DStrategy.exe.manifest
+bin\Debug\D3DStrategy.application
+bin\Debug\D3DStrategy.exe
+bin\Debug\D3DStrategy.pdb
+obj\Debug\D3DStrategy.TrustInfo.xml
+obj\Debug\D3DStrategy.exe.manifest
+obj\Debug\D3DStrategy.application
+obj\Debug\D3DStrategy.exe
+obj\Debug\D3DStrategy.pdb
